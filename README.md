@@ -9,6 +9,5 @@
 <body>
   <h1>🍴 &lt;food 36&gt; Menu</h1>
   <div class="grid" id="foodGrid"></div>
-  </script>
 </body>
 </html>
