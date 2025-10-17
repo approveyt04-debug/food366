@@ -7,7 +7,7 @@
 
 </head>
 <body>
-  <h1>🍴 &lt;Vann RaSmarch&gt; Menu</h1>
+  <h1> &lt;Vann RaSmarch&gt;</h1>
   <div class="grid" id="foodGrid"></div>
 </body>
 </html>
